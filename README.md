@@ -3,7 +3,7 @@
 
 ## Description
 Here, an imaginary environment is constructed, and random paths are generated within it. Subsequently, the accuracy of these paths is examined.
-run cide 1
+run code 1
 
 
 ## Contribution
